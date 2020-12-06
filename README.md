@@ -2,6 +2,8 @@
 
 Application allows user to enter new todos', change status of todos' to completed and delete a certain todo. Todo-App displays 'All', 'Completed' and 'Uncompleted' todos' based on user selection of drop-down option. 
 
+![App Screenshot](https://user-images.githubusercontent.com/60570301/101272431-09f4f480-37c7-11eb-8d15-91cc9b26f8cc.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
